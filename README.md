@@ -2,9 +2,9 @@
 
 <h2 align="center">
 Connect with me:
-<br />
+<h4><br />
 📫 Write to me - **chithakumar13@gmail.com** 
-<br />
+<br /><h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/vetle-nilsen-7979711a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chithakumar13" height="30" width="30" /></a>
 <a href="https://instagram.com/vetlenilsenn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_m_ck13" height="30" width="30" /></a>
