@@ -11,9 +11,10 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vetlenilsenn&show_icons=true&theme=tokyonight)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vetlenilsenn&show_icons=true&theme=tokyonight" alt="chithakumar13" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" alt="chithakumar13" /></p>
+
 
 [linkedin]: https://www.linkedin.com/in/vetle-nilsen-7979711a7/
 [instagram]: https://instagram.com/vetlenilsenn
