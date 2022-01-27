@@ -1,4 +1,4 @@
-<title align="center">Hi 👋, I'm Vetle Johansen Nilsen</title>
+<h3 align="center">Hi 👋, I'm Vetle Johansen Nilsen</h3>
 
 ---
 
