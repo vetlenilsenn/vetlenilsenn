@@ -3,7 +3,7 @@
 <h2 align="center">
 Connect with me:
 <p align="center">
-<a href="www.linkedin.com/in/vetle-marino-johansen-nilsen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chithakumar13" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/vetle-marino-johansen-nilsen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chithakumar13" height="30" width="30" /></a>
 <a href="https://instagram.com/vetlenilsenn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_m_ck13" height="30" width="30" /></a>
 </p>
 </h2>
